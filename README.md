@@ -4,7 +4,7 @@ Hi, I'm Samuel 👋
 
 I am a Full Stack Developer coming straight outta Bootcamp! With a background in International Economics and Management, and previous work experience as Account and Sales Manager, my business expertise comes in handy to truly understand customer needs and address them properly through code. 
 
-I am currently attending the Harvard CS50 course (Introduction to Computer Science) to continue my learning journey!
+Currently, I'm attending the Harvard CS50 course (Introduction to Computer Science) to continue my learning journey!
 
 <a href="https://www.linkedin.com/in/metzsa/">
          <img alt="linkedin connect" title="Let's connect on LinkedIn!" src="https://custom-icon-badges.demolab.com/badge/🔘-white?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=linkedin&label=Ring the bell to connect with me! →&logoColor=white"/></a> 
